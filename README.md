@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm a Backend developer
 
 <a href="https://t.me/ddos_attack_pvl">
-  <img align="left" alt="Telegram" width="22px" src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-squeare&logo=telegram&logoColor=white">
+  <img align="left" alt="Telegram" width="90px" src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-squeare&logo=telegram&logoColor=white">
 </a>
 <a href="https://www.linkedin.com/in/doskhan-stybayev">
   <img align="left" alt="LinkedIN" width="100px" height="22px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
