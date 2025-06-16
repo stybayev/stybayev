@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/DJWOMS/DJWOMS/main/banner.png" width="100%" alt="Banner"/>
+<img src="https://github.com/DJWOMS/DJWOMS/blob/main/code.gif" width="100%" alt="Banner"/>
 
 ## 👋 Hi, I'm Doskhan
 
