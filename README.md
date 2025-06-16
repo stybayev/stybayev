@@ -1,4 +1,3 @@
-<img src="https://github.com/DJWOMS/DJWOMS/blob/main/code.gif" width="100%" alt="Banner"/>
 
 ## 👋 Hi, I'm Doskhan
 
